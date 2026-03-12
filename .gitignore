@@ -1,0 +1,13 @@
+# Python environment
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE settings
+.idea/
+.vscode/
+.DS_Store
+
+# Data files (GitHub doesn't like large files)
+data/raw/
